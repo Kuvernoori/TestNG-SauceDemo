@@ -1,0 +1,122 @@
+2026-01-21 16:04:44 INFO  tests.NopCommerceTests - Браузер запущен и окно максимизировано
+2026-01-21 16:04:49 INFO  tests.NopCommerceTests - Открыта главная страница: https://www.saucedemo.com/
+2026-01-21 16:04:49 INFO  tests.NopCommerceTests - Шаг 1: Логин
+2026-01-21 16:04:50 INFO  tests.NopCommerceTests - Шаг 2: Добавление первого товара в корзину
+2026-01-21 16:04:50 INFO  tests.NopCommerceTests - Шаг 3: Проверка счётчика корзины
+2026-01-21 16:04:50 INFO  tests.NopCommerceTests - Открыта главная страница: https://www.saucedemo.com/
+2026-01-21 16:04:50 INFO  tests.NopCommerceTests - Шаг 1: Ввод неверных данных
+2026-01-21 16:04:50 INFO  tests.NopCommerceTests - Шаг 2: Проверка сообщения об ошибке
+2026-01-21 16:04:51 INFO  tests.NopCommerceTests - Открыта главная страница: https://www.saucedemo.com/
+2026-01-21 16:04:51 INFO  tests.NopCommerceTests - Шаг 1: Ввод username и password
+2026-01-21 16:04:51 INFO  tests.NopCommerceTests - Шаг 2: Проверка перехода на страницу продуктов
+2026-01-21 16:04:51 INFO  tests.NopCommerceTests - Браузер закрыт
+2026-01-21 16:22:05 INFO  tests.NopCommerceTests - Browser started
+2026-01-21 16:22:08 INFO  tests.NopCommerceTests - Opened saucedemo.com
+2026-01-21 16:22:08 INFO  tests.NopCommerceTests - Logging in
+2026-01-21 16:22:08 INFO  tests.NopCommerceTests - Adding first product
+2026-01-21 16:22:08 INFO  tests.NopCommerceTests - Verifying cart badge
+2026-01-21 16:22:08 INFO  tests.NopCommerceTests - Opened saucedemo.com
+2026-01-21 16:22:08 INFO  tests.NopCommerceTests - Entering invalid credentials
+2026-01-21 16:22:09 INFO  tests.NopCommerceTests - Checking error message
+2026-01-21 16:22:09 INFO  tests.NopCommerceTests - Opened saucedemo.com
+2026-01-21 16:22:09 INFO  tests.NopCommerceTests - Entering credentials
+2026-01-21 16:22:09 INFO  tests.NopCommerceTests - Verifying inventory page
+2026-01-21 16:22:09 INFO  tests.NopCommerceTests - Browser closed
+2026-01-21 16:24:43 INFO  utils.TestListener - Test suite started
+2026-01-21 16:24:45 INFO  tests.NopCommerceTests - Browser started
+2026-01-21 16:24:47 INFO  tests.NopCommerceTests - Opened saucedemo.com
+2026-01-21 16:24:47 INFO  utils.TestListener - Test started: testAddToCart
+2026-01-21 16:24:47 INFO  tests.NopCommerceTests - Logging in
+2026-01-21 16:24:48 INFO  tests.NopCommerceTests - Adding first product
+2026-01-21 16:24:48 INFO  tests.NopCommerceTests - Verifying cart badge
+2026-01-21 16:24:48 INFO  utils.TestListener - Test passed: testAddToCart
+2026-01-21 16:24:48 INFO  tests.NopCommerceTests - Opened saucedemo.com
+2026-01-21 16:24:48 INFO  utils.TestListener - Test started: testInvalidPassword
+2026-01-21 16:24:48 INFO  tests.NopCommerceTests - Entering invalid credentials
+2026-01-21 16:24:48 INFO  tests.NopCommerceTests - Checking error message
+2026-01-21 16:24:48 INFO  utils.TestListener - Test passed: testInvalidPassword
+2026-01-21 16:24:48 INFO  tests.NopCommerceTests - Opened saucedemo.com
+2026-01-21 16:24:48 INFO  utils.TestListener - Test started: testSuccessfulLogin
+2026-01-21 16:24:48 INFO  tests.NopCommerceTests - Entering credentials
+2026-01-21 16:24:49 INFO  tests.NopCommerceTests - Verifying inventory page
+2026-01-21 16:24:49 INFO  utils.TestListener - Test passed: testSuccessfulLogin
+2026-01-21 16:24:49 INFO  tests.NopCommerceTests - Browser closed
+2026-01-21 16:24:49 INFO  tests.NopCommerceTests - Extent report flushed
+2026-01-21 16:24:49 INFO  utils.TestListener - Test suite finished. Report generated in test-output/
+2026-01-21 16:31:33 INFO  utils.TestListener - Test suite started
+2026-01-21 16:31:35 INFO  tests.NopCommerceTests - Browser started
+2026-01-21 16:31:39 INFO  tests.NopCommerceTests - Opened saucedemo.com
+2026-01-21 16:31:39 INFO  utils.TestListener - Test started: testAddToCart
+2026-01-21 16:31:39 INFO  tests.NopCommerceTests - Logging in
+2026-01-21 16:31:40 INFO  tests.NopCommerceTests - Adding first product
+2026-01-21 16:31:40 INFO  tests.NopCommerceTests - Verifying cart badge
+2026-01-21 16:31:40 INFO  utils.TestListener - Test passed: testAddToCart
+2026-01-21 16:31:40 INFO  tests.NopCommerceTests - Opened saucedemo.com
+2026-01-21 16:31:40 INFO  utils.TestListener - Test started: testInvalidPassword
+2026-01-21 16:31:40 INFO  tests.NopCommerceTests - Entering invalid credentials
+2026-01-21 16:31:40 INFO  tests.NopCommerceTests - Checking error message
+2026-01-21 16:31:40 INFO  utils.TestListener - Test passed: testInvalidPassword
+2026-01-21 16:31:40 INFO  tests.NopCommerceTests - Opened saucedemo.com
+2026-01-21 16:31:40 INFO  utils.TestListener - Test started: testSuccessfulLogin
+2026-01-21 16:31:40 INFO  tests.NopCommerceTests - Entering credentials
+2026-01-21 16:31:41 INFO  tests.NopCommerceTests - Verifying inventory page
+2026-01-21 16:31:41 INFO  utils.TestListener - Screenshot saved: screenshots/testSuccessfulLogin_20260121_163141.png
+2026-01-21 16:31:41 ERROR utils.TestListener - Test failed: testSuccessfulLogin
+java.lang.AssertionError: Products title should be visible but we force failure expected [Wrong Title!!!] but found [Products]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.Assert.failNotEquals(Assert.java:1590) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.Assert.assertEquals(Assert.java:132) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.Assert.assertEquals(Assert.java:656) ~[testng-7.11.0.jar:7.11.0]
+	at tests.NopCommerceTests.testSuccessfulLogin(SauceDemoTests.java:46) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2026-01-21 16:31:41 INFO  tests.NopCommerceTests - Browser closed
+2026-01-21 16:31:42 INFO  tests.NopCommerceTests - Extent report flushed
+2026-01-21 16:31:42 INFO  utils.TestListener - Test suite finished. Report generated in test-output/
+2026-01-21 17:05:28 INFO  utils.TestListener - Test suite started
+2026-01-21 17:05:30 INFO  tests.NopCommerceTests - Browser started
+2026-01-21 17:05:32 INFO  tests.NopCommerceTests - Opened saucedemo.com
+2026-01-21 17:05:32 INFO  utils.TestListener - Test started: testAddToCart
+2026-01-21 17:05:32 INFO  tests.NopCommerceTests - Logging in
+2026-01-21 17:05:33 INFO  tests.NopCommerceTests - Adding first product
+2026-01-21 17:05:33 INFO  tests.NopCommerceTests - Verifying cart badge
+2026-01-21 17:05:33 INFO  utils.TestListener - Test passed: testAddToCart
+2026-01-21 17:05:33 INFO  tests.NopCommerceTests - Opened saucedemo.com
+2026-01-21 17:05:33 INFO  utils.TestListener - Test started: testInvalidPassword
+2026-01-21 17:05:33 INFO  tests.NopCommerceTests - Entering invalid credentials
+2026-01-21 17:05:33 INFO  tests.NopCommerceTests - Checking error message
+2026-01-21 17:05:33 INFO  utils.TestListener - Test passed: testInvalidPassword
+2026-01-21 17:05:33 INFO  tests.NopCommerceTests - Opened saucedemo.com
+2026-01-21 17:05:33 INFO  utils.TestListener - Test started: testSuccessfulLogin
+2026-01-21 17:05:33 INFO  tests.NopCommerceTests - Entering credentials
+2026-01-21 17:05:34 INFO  tests.NopCommerceTests - Verifying inventory page
+2026-01-21 17:05:34 INFO  utils.TestListener - Test passed: testSuccessfulLogin
+2026-01-21 17:05:34 INFO  tests.NopCommerceTests - Browser closed
+2026-01-21 17:05:34 INFO  tests.NopCommerceTests - Extent report flushed
+2026-01-21 17:05:34 INFO  utils.TestListener - Test suite finished. Report generated in test-output/
